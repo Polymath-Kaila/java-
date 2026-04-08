@@ -26,6 +26,7 @@ class Phone{
 }
 public class OopTrial{
     public static void main(String[] args){
+        System.out.println("ELCOME TO MY PHONE ");
         Phone phone1 = new Phone("OPPO A3X",41);
         phone1.call();
         phone1.charge();
